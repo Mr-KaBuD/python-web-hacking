@@ -8,7 +8,7 @@ A program for Hackers to Gather information about their targets .
 
 
 ## Use :
-install python<br>
+install python3<br>
 run this project as  ~ python main.py <br>
 and enjoy :)
 
